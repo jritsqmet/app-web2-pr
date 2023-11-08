@@ -5,6 +5,9 @@ import { InfoComponent } from './screens/info/info.component';
 
 import { MartinComponent } from './screens/martin/martin.component';
 
+import { DiegoComponent } from './screens/diego/diego.component';
+
+
 import { ProfeComponent } from './screens/profe/profe.component';
 
 
@@ -14,6 +17,9 @@ const routes: Routes = [
   { path: '', component: HomeComponent},
 
   { path: 'martin', component: MartinComponent}
+
+  {path: 'diego', component: DiegoComponent}
+
 
   { path: 'profe', component: ProfeComponent}
 

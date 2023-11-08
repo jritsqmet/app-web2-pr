@@ -96,6 +96,10 @@
     }
   },
   "cli": {
+
     "analytics": "c905f6c4-bc9c-4140-8008-82ca9432e5dc"
+
+    "analytics": "b30b915b-d9d8-4c59-9403-1fb1e6ec7726"
+>>>>>>> master
   }
 }

@@ -7,7 +7,11 @@ import { NabVarComponent } from './components/nab-var/nab-var.component';
 import { HomeComponent } from './screens/home/home.component';
 import { InfoComponent } from './screens/info/info.component';
 
+
+import { MartinComponent } from './screens/martin/martin.component';
+
 import { DiegoComponent } from './screens/diego/diego.component';
+
 
 import { ProfeComponent } from './screens/profe/profe.component';
 
@@ -19,7 +23,11 @@ import { ProfeComponent } from './screens/profe/profe.component';
     HomeComponent,
     InfoComponent,
 
+
+    MartinComponent
+
     DiegoComponent
+
 
     ProfeComponent
 
